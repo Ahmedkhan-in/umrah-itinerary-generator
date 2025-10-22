@@ -1,0 +1,7 @@
+.env
+plhvenv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+vectorstore/
